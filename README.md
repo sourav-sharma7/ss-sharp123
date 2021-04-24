@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sourav sharma
+- 👋 Hi, I’m sourav sharma
 - 👀 I’m interested in Artificial intelligence and machine learning 
 - 🌱 I’m currently learning ros cpp and python
 - 😄 Pronouns: He/Him
